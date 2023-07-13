@@ -1,22 +1,26 @@
 .alert {
   padding: 18px;
   border-radius: 10px;
-  background-color: rgb(126, 126, 126);
-  color: white;
+  background-color: rgb(223, 223, 223);
+  color: rgb(78, 78, 78);
   overflow: hidden;
   position: relative;
 }
 .alert-success {
   background-color: #4caf50;
+  color: white;
 }
 .alert-info {
   background-color: #2196f3;
+  color: white;
 }
 .alert-warning {
   background-color: #fb8c00;
+  color: white;
 }
 .alert-error {
   background-color: #ff5252;
+  color: white;
 }
 .alert-border-bar {
   position: absolute;

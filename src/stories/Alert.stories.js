@@ -25,7 +25,6 @@ export default {
 export const Normal = {
   args: {
     content: "I'm an Alert Usage Example",
-    border: ''
   },
 }
 
@@ -39,7 +38,6 @@ export const BorderDirection = {
 export const Type = {
   args: {
     content: "I'm an Alert Usage Example",
-    border: '',
     type: 'success'
   },
 }
